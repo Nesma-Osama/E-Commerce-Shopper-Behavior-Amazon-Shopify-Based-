@@ -1,1 +1,12 @@
 e_commerce_shopper_behaviour_and_lifestyle.csv
+X_train.npy
+X_val.npy
+X_test.npy
+y_test_scaled.npy
+y_val_scaled.npy
+y_train_scaled.npy
+y_train_classified.npy
+y_val_classified.npy
+y_test_classified.npy
+target_scaling.pkl
+preprocessing_pipeline.pkl
