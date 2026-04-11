@@ -10,3 +10,6 @@ y_val_classified.npy
 y_test_classified.npy
 target_scaling.pkl
 preprocessing_pipeline.pkl
+__pycache__/
+.venv/
+.env/
