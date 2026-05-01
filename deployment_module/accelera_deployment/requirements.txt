@@ -1,0 +1,8 @@
+fastapi==0.136.1
+uvicorn[standard]==0.46.0
+scikit-learn==1.8.0
+category-encoders==2.9.0
+numpy==2.4.4
+pandas==3.0.2
+pydantic==2.13.3
+python-multipart==0.0.27

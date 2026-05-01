@@ -1,0 +1,10 @@
+{
+  "models": {
+    "knn_model": "./models/knn_model.pkl",
+    "linear_regression_weights": "./models/linear_regression_weights.pkl",
+    "ordinal_logistic_threshold_weights": "./models/ordinal_logistic_threshold_weights.pkl",
+    "preprocessing_pipeline.pkl": "./models/preprocessing_pipeline.pkl",
+    "target_scaling.pkl": "./models/target_scaling.pkl",
+    "total_remaining_features.pkl": "./models/total_remaining_features.pkl"
+  }
+}
