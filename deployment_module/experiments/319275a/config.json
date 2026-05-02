@@ -1,0 +1,10 @@
+{
+    "models": {
+    "knn_model": "/home/mazen/Desktop/projects/big-data/models/knn_model.pkl",
+    "linear_regression_weights": "/home/mazen/Desktop/projects/big-data/models/linear_regression_weights.pkl",
+    "ordinal_logistic_threshold_weights": "/home/mazen/Desktop/projects/big-data/models/ordinal_logistic_threshold_weights.pkl",
+    "preprocessing_pipeline.pkl": "/home/mazen/Desktop/projects/big-data/models/preprocessing_pipeline.pkl",
+    "target_scaling.pkl": "/home/mazen/Desktop/projects/big-data/models/target_scaling.pkl",
+    "total_remaining_features.pkl": "/home/mazen/Desktop/projects/big-data/models/total_remaining_features.pkl"
+      }
+}
