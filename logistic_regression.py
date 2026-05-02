@@ -14,14 +14,6 @@ if java17_home.exists():
     os.environ["JAVA_HOME"] = str(java17_home)
     os.environ["PATH"] = f"{java17_home / 'bin'}:{os.environ.get('PATH', '')}"
 
-try:
-    from pyspark import StorageLevel
-    from pyspark.sql import SparkSession
-except ImportError as exc:
-    raise ImportError(
-        "Install pyspark first. If you use the project venv, run: .venv/bin/pip install pyspark"
-    ) from exc
-
 
 def add_bias(X):
     return np.hstack([np.ones((X.shape[0], 1), dtype=np.float32), X])
